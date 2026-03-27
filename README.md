@@ -11,7 +11,7 @@
 - Folder '\algorithms' contains the others algoritms tested
 
 ## Objectives:
--- i) Random Walk; ii) Lawnmower; iii) Frontier-based exploration; iv) Reinforcement Learning; v) Particle filters; vi) Information-driven exploration; vii) Ant Colony Optimization; viii) Particle Swarm Optimization; ix) Signal gradient-based strategies; x) Signal gradient-based strategies; xi) Hybrid methods.
+- i) Random Walk; ii) Lawnmower; iii) Frontier-based exploration; iv) Reinforcement Learning; v) Particle filters; vi) Information-driven exploration; vii) Ant Colony Optimization; viii) Particle Swarm Optimization; ix) Signal gradient-based strategies; x) Signal gradient-based strategies; xi) Hybrid methods.
 
 ## To Do
 - Report techniques and literature beliefs
