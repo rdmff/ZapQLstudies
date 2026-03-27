@@ -1,6 +1,7 @@
 # ZapQLstudies
-Zap Q-Learning: a paragon approach for author Chen et al, 2020 
-Disponible in https://arxiv.org/pdf/1910.05405 
+### Zap Q-Learning: a paragon approach for author Chen et al, 2020
+### Disponible in https://arxiv.org/pdf/1910.05405 
+### Author: Roberto De Medeiros, PhDc
 
 ## Instructions:
 - Folder '\graph' contains the tests
