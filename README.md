@@ -9,3 +9,10 @@
 - Versioning algorithm_ambient_NN
 - Algorthms: RandomWalk; ReinforcementLearning; ZapQL (modified from GitHub of Chen et al, 2020, for actual version Python)
 - Folder '\algorithms' contains the others algoritms tested
+
+## Objectives:
+-- 
+
+## To Do
+- Report techniques and literature beliefs
+- More tests with others algorithms in Cartpole NN:20×12×18, NN:24×16×10 e NN:30×24×16, like others
